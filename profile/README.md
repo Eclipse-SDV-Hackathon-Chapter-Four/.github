@@ -7,10 +7,14 @@ BUILD openly. CONNECT communities. DELIVER together
 You don't have to be a rocket scientist to help build the next Rocketmobile! We start with code first! Join the Eclipse SDV Hackathon Challenge to hack the software defined car of the future!
 
 ## Register here:
-[Event Page](https://www.eclipse-foundation.events/event/sdv-hackathon-chapter-four/summary))
+[Event Page](https://www.eclipse-foundation.events/event/sdv-hackathon-chapter-four/summary)
 
 ## Pitching Instructions
 tbd
+
+## Blogposts and News
+[Announcing the Eclipse SDV Hackathon Chapter 4: May the fourth be with you!](https://eclipsesdv.org/blogs/announcing-the-eclipse-sdv-hackathon-chapter-4-may-the-fourth-be-with-you/)
+More to come...
 
 ## About the challenges
 
