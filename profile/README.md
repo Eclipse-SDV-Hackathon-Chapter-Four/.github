@@ -12,6 +12,9 @@ You don't have to be a rocket scientist to help build the next Rocketmobile! We 
 ## Pitching Instructions
 tbd
 
+## Hackathon Scorecards
+tbd
+
 ## Blogposts and News
 [Announcing the Eclipse SDV Hackathon Chapter 4: May the fourth be with you!](https://eclipsesdv.org/blogs/announcing-the-eclipse-sdv-hackathon-chapter-4-may-the-fourth-be-with-you/)
 More to come...
