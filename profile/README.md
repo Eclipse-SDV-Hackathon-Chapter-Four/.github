@@ -18,6 +18,9 @@ tbd
 ## Hackathon Evaluation Forms (aka Scorecards)
 [Hackathon Evaluation Forms](./Eclipse_SDV_Hackathon_2026_EvaluationForms.pdf)
 
+## Hackathon Pitching Session
+[SDV Hackathon 2026_Pitching Session](./SDV%20Hackathon%202026_Pitching%20Session.pdf)
+
 ## Blogposts and News
 [Announcing the Eclipse SDV Hackathon Chapter 4: May the fourth be with you!](https://eclipsesdv.org/blogs/announcing-the-eclipse-sdv-hackathon-chapter-4-may-the-fourth-be-with-you/)
 More to come...
